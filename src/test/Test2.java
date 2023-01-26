@@ -16,7 +16,7 @@ public class Test2 {
 			System.out.println(money%num);
 			
 		} else {
-			System.out.println("Àß¸øµÈ ÀÔ·Â");
+			System.out.println("ì˜ëª»ëœ ì…ë ¥");
 		}
 		
 	}

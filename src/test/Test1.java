@@ -21,7 +21,7 @@ public class Test1 {
 			} else if(Str.equals("mul")) {
 				System.out.println(a*b);
 			} else{
-				System.out.println("Àß¸øµÈ ÀÔ·Â");
+				System.out.println("ì˜ëª»ëœ ì…ë ¥");
 			}
 			
 		}
