@@ -17,6 +17,7 @@ public class Test2 {
 			
 		} else {
 			System.out.println("잘못된 입력");
+			
 		}
 		
 	}
