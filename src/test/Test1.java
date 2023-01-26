@@ -1,6 +1,7 @@
 package test;
 import java.util.*;
 
+//더하기,빼기,나누기,곱하기
 public class Test1 {
 	public static void main(String args[]) {
 		

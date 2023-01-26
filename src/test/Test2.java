@@ -1,6 +1,7 @@
 package test;
 import java.util.*;
 
+//나누기와 나머지 구하기
 public class Test2 {
 	public static void main(String args[]) {
 		int Max = (int)Math.pow(10,1000);

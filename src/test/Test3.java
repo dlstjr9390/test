@@ -1,6 +1,7 @@
 package test;
 import java.util.*;
 
+//비교하기
 public class Test3 {
 	public static void main(String args[]) {
 		Scanner Sc = new Scanner(System.in);
